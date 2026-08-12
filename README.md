@@ -11,11 +11,11 @@ Node.js • Express • Sequelize • PostgreSQL  • JWT • EJS • Git
 
 #### 📌 Proyecto Destacado
 **[nodConAutenticacionconJWT](https://github.com/claudiocortespasten/nodConAutenticacionconJWT)**  
-API REST con autenticación por sesiones y JWT. CRUD de usuarios y empleados + subida de archivos con Multer.
+API REST con autenticación por sesiones y JWT. CRUD con PostgreSQL + Sequelize + subida de archivos con Multer.
 Proyecto iniciado en Bootcamp y actualmente en desarrollo independiente.
 
 #### 📫 Contáctame
-LinkedIn: [Mi Linkedin](www.linkedin.com/in/claudio-cortespasten)
+LinkedIn: [Mi Linkedin](https://www.linkedin.com/in/claudio-cortespasten)
 
 <!--
 **claudiocortespasten/claudiocortespasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
